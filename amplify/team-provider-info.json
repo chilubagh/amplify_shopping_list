@@ -10,6 +10,11 @@
       "StackName": "amplify-shoppinglist-dev-224834",
       "StackId": "arn:aws:cloudformation:us-east-1:470818119238:stack/amplify-shoppinglist-dev-224834/e72f06d0-2482-11ec-9e65-0e02679e83b9",
       "AmplifyAppId": "d3szk2y1wbs3nu"
+    },
+    "categories": {
+      "auth": {
+        "shoppinglistd8aeda7d": {}
+      }
     }
   }
 }
